@@ -10,6 +10,10 @@ the car, and a fully movable HUD.
 
 ---
 
+<p align="center">
+  <img src="images/panel.png" alt="Nitro panel" width="860">
+</p>
+
 ## What it does
 
 The player installs a nitrous kit on a vehicle, positions the bottle inside the car,
@@ -71,6 +75,15 @@ nitro — so the purge button is a real decision instead of a cosmetic effect.
   work with no extra setup
 - Threads idle at high wait values and only tighten up while the nitro is actually
   firing
+
+## Screenshots
+
+The HUD tab, where the gauge, the thermometer and the bottle are restyled, resized and
+repositioned independently:
+
+<p align="center">
+  <img src="images/hud.png" alt="Nitro HUD tab" width="860">
+</p>
 
 ## Requirements
 
