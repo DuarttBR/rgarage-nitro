@@ -62,7 +62,9 @@ nitro — so the purge button is a real decision instead of a cosmetic effect.
 - **10 pressure gauge styles** and **10 thermometer styles**
 - Every HUD piece is **dragged, scaled and saved per player** — gauge, thermometer and
   bottle independently
-- **7 flame colours**, 5 flame sizes, 4 purge sizes
+- **30 flame colours**, 5 flame sizes, 4 purge sizes
+- The colour particles ship inside the resource, so the colours work on their own with
+  no other Ryu Garage script installed
 - **10 languages**: EN, PT-BR, ES, FR, DE, IT, RU, ZH, JA, KO
 
 ### Under the hood
@@ -77,6 +79,12 @@ nitro — so the purge button is a real decision instead of a cosmetic effect.
   firing
 
 ## Screenshots
+
+The colour grid, with 30 flame colours:
+
+<p align="center">
+  <img src="images/colors.png" alt="Flame colour grid" width="860">
+</p>
 
 The HUD tab, where the gauge, the thermometer and the bottle are restyled, resized and
 repositioned independently:
